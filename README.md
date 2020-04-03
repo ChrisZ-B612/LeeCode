@@ -1,0 +1,2 @@
+# LeeCode
+Happy Hacking LeeCode~
