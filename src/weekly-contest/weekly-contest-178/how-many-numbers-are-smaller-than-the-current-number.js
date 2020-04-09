@@ -34,7 +34,6 @@ var smallerNumbersThanCurrent2 = function (nums) {
 };
 
 let input = [8, 1, 2, 2, 3];
-
 console.log('NASA: input', input);
 console.log('NASA: output1', smallerNumbersThanCurrent1(input));
 console.log('NASA: output2', smallerNumbersThanCurrent2(input));

@@ -34,5 +34,5 @@ var rankTeams = function(votes) {
     return dualArr.map((arr) => String.fromCharCode(codeZ - arr.pop())).join('');
 };
 
-var votes = ["ABC", "ACB", "ABC", "ACB", "ACB"];
+let votes = ["ABC", "ACB", "ABC", "ACB", "ACB"];
 console.log(`NASA: (${rankTeams(votes)})`);
